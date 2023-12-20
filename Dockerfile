@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12
 ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
 LABEL \
